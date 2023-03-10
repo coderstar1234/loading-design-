@@ -1,0 +1,22 @@
+/* created by : SwapniL */
+/* CSS rules for youtube link */
+    .yt{
+      height : 20px;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+      bottom: 20px;
+     }
+    .yt > a{
+      display : flex;
+      align-items : center;
+      text-decoration : none;
+      color : white;
+      font-size : 1.2em;
+      border-radius: 5px;
+      padding: 0.4em 1em;
+      background-color: red;
+    }
+    /* CSS rules for youtube link */

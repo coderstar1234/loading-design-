@@ -1,0 +1,59 @@
+<!-- created by : SwapniL -->
+<html>
+  <head>
+    <title>Loading Animation</title>
+    <style>
+      *, *::after, *::before{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+      }
+      body{
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+      }
+      .base1, .base2{
+        height: 150px;
+        width: 150px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+      }
+      .base1 div, .base2 div{
+        height: 50px;
+        width: 50px;
+        position: absolute;
+      }
+      .yellow1{
+        background-color: yellow;
+        left: calc(50% - 50px);
+        top: calc(50% - 0px);
+        border-bottom-left-radius: 100px;
+        animation: rotateY1 2s linear infinite;
+      }
+      @keyframes rotateY1 {
+        0%{
+          transform: rotate3d( 0, 0, 0, 0deg);
+        }
+        25%{
+          transform: rotate3d(-2, 2, 0,-180deg);
+        }
+        100%{
+          transform: rotate3d(-2, 2, 0,-180deg);
+        }
+      }
+      .red1{
+        background-color: red;
+        left: calc(50% - 0px);
+        top: calc(50% - 0px);
+        border-bottom-right-radius: 100px;
+        animation: rotateR1 2s linear infinite;
+      }
+      @keyframes rotateR1 {
+        0%{
+          transform: rotate3d( 0, 0, 0, 0deg);
+        }
