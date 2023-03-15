@@ -16,7 +16,9 @@
 
 - This page is designed using the following technologies:
 <br>
-
+<p align="right">
+<img height="100" wedith="100" src="https://clipartcraft.com/images/html5-logo-css3-9.png"></p>
+<br>
 - HTML<br>
 - CSS<br>
 - JavaScript<br><hr>
