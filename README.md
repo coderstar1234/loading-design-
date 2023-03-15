@@ -1,6 +1,8 @@
 <h1 align="center" >Loading Design Page</h1>
 
 - This is a simple loading page designed using HTML, CSS, and JavaScript. It shows a loading animation while the page is being loaded.<br>
+<p align="center">
+<img height="200" wedith="200" src="https://gifimage.net/wp-content/uploads/2017/06/loading-gif-14.gif"></p>
 <hr>
 <h1 align="center" >Features</h1>
 
