@@ -5,7 +5,7 @@
 <p align="center">
 <img height="200" wedith="200" src="https://gifimage.net/wp-content/uploads/2017/06/loading-gif-14.gif"></p>
 <hr>
-<h1 align="center" >Features</h1>
+<h1 align="center" >Features:-</h1>
 
 - Responsive design that adapts to different screen sizes.<br>
 - Animated loading icon that indicates the page is loading.<br>
