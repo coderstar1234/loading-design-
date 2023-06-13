@@ -10,7 +10,7 @@
 - Responsive design that adapts to different screen sizes.<br>
 - Animated loading icon that indicates the page is loading.<br>
 - Background image that creates a visually pleasing experience for the user.<br><hr>
-<h1 align="center" >How to Use</h1>
+<h1 align="center" >How to Use:-</h1>
 
 - Clone this repository to your local machine.<br>
 - Open the index.html file in a web browser.<br>
