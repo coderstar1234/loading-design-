@@ -15,7 +15,7 @@
 - Clone this repository to your local machine.<br>
 - Open the index.html file in a web browser.<br>
 - Wait for the page to finish loading.<br><hr>
-<h1 align="center" >Technologies Used</h1>
+<h1 align="center" >Technologies Used:-</h1>
 
 - This page is designed using the following technologies:
 <br>
