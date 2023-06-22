@@ -35,7 +35,7 @@
 - Create a new branch with your feature or bug fix.<br>
 - Commit your changes and push to the new branch.<br>
 - Submit a pull request.<br><hr>
-<h1 align="center" >License:- </h1>
+<h1 align="center" >License:📑- </h1>
 
 - This project is licensed under the MIT License. Please see the LICENSE file for more information.<br><hr>
 
