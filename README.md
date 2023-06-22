@@ -1,4 +1,4 @@
-<h1 align="center" ><i>Loading Design Page:</i></h1>
+<h1 align="center" ><i>Loading Design Page📜:</i></h1>
 
 - This is a simple loading page designed using HTML, CSS, and JavaScript. 
 - It shows a loading animation while the page is being loaded.<br>
