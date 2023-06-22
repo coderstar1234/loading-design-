@@ -27,7 +27,7 @@
 - CSS
 - JavaScript
 <hr>
-<h1 align="center" >Contributing:-</h1>
+<h1 align="center" >Contributing👭:-</h1>
 
 - Contributions are always welcome! If you want to contribute to this project, please follow these steps:<br>
 
